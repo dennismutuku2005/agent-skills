@@ -6,14 +6,18 @@
   <p>A growing collection of practical prompts and resources for better AI-assisted work.</p>
 </div>
 
-## What's inside
+<div align="center">
 
-This repository currently includes a universal UI/UX refinement prompt for improving an existing application's visual consistency, usability, accessibility, and responsive behavior.
+  ## What's inside
 
-## Use the prompt
+  This repository includes a universal UI/UX refinement prompt to help improve an existing application's visual consistency, usability, accessibility, and responsive behavior.
 
-1. Open [`ui-ux/universal_ui_ux_design_refinement_prompt.txt`](ui-ux/universal_ui_ux_design_refinement_prompt.txt).
-2. Copy the prompt into your AI coding assistant.
-3. Use it in the context of the application you want to refine.
+  ## Use the prompt
 
-The prompt is designed to help improve an existing product while preserving its identity.
+  1. Open [`ui-ux/universal_ui_ux_design_refinement_prompt.txt`](ui-ux/universal_ui_ux_design_refinement_prompt.txt).
+  2. Copy the prompt into your AI coding assistant.
+  3. Use it in the context of the application you want to refine.
+
+  The prompt helps improve an existing product while preserving its identity.
+
+</div>
